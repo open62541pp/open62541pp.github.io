@@ -24,8 +24,18 @@ h2 {
   padding: 100px 10px;
 }
 
-.buttons {
-  padding: 30px;
+.main-buttons {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  padding: 20px;
+}
+
+.github-buttons {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  padding: 10px;
 }
 
 .buttons button {
