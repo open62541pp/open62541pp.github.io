@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://developers.google.com/search/docs/crawling-indexing/sitemaps/large-sitemaps -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://open62541pp.github.io/open62541pp/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://open62541pp.github.io/open62541pp/open62541/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
