@@ -1,19 +1,22 @@
+[data-theme="dark"] {
+  --pico-primary: hsl(200, 100%, 50%);
+}
+
 main {
   text-align: center;
 }
 
 h1 {
-  font-size: 40pt !important;
-  /* font-weight: lighter !important; */
+  font-size: 40pt;
   background-image: linear-gradient(to right, hsl(200, 100%, 50%), hsl(280, 100%, 50%));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-bottom: 40px !important;
+  margin-bottom: 40px;
 }
 
 h2 {
-  font-size: 18pt !important;
-  font-weight: lighter !important;
+  font-size: 18pt;
+  font-weight: lighter;
 }
 
 .centered {
