@@ -5,7 +5,7 @@ main {
 h1 {
   font-size: 40pt !important;
   /* font-weight: lighter !important; */
-  background-image: linear-gradient(to right, rgb(1, 114, 173), rgb(143, 169, 240));
+  background-image: linear-gradient(to right, hsl(200, 100%, 50%), hsl(280, 100%, 50%));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 40px !important;
